@@ -1,0 +1,14 @@
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\bin\Debug\TicketReservation.exe.config
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\bin\Debug\TicketReservation.exe
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\bin\Debug\TicketReservation.pdb
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.csprojResolveAssemblyReference.cache
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.Form1.resources
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.Properties.Resources.resources
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.csproj.GenerateResource.Cache
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.exe
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.pdb
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.Form2.resources
+C:\Users\Jahan Zaib\Desktop\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.Details.resources
+E:\UNIVERSITY\PROJECTS\C#\project C#\TicketReservation\TicketReservation\bin\Debug\TicketReservation.exe.config
+E:\UNIVERSITY\PROJECTS\C#\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.exe
+E:\UNIVERSITY\PROJECTS\C#\project C#\TicketReservation\TicketReservation\obj\Debug\TicketReservation.pdb
